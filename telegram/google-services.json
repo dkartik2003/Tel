@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "106379162499",
+    "project_id": "telegram-f7bfa",
+    "storage_bucket": "telegram-f7bfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106379162499:android:72cf6dbc86fc1e02823cb6",
+        "android_client_info": {
+          "package_name": "com.kartik.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106379162499-ulrbuu02lv40p98a8hveui4aakdm8hgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Lri0r6WJyD-cdikMbZrZEExJIUOIYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106379162499-ulrbuu02lv40p98a8hveui4aakdm8hgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106379162499:android:827cf394a583e3ed823cb6",
+        "android_client_info": {
+          "package_name": "com.kartiks.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106379162499-ulrbuu02lv40p98a8hveui4aakdm8hgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Lri0r6WJyD-cdikMbZrZEExJIUOIYEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106379162499-ulrbuu02lv40p98a8hveui4aakdm8hgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
